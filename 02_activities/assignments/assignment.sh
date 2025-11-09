@@ -18,11 +18,7 @@ cd newproject
 
 mkdir analysis output
 touch README.md
-<<<<<<< HEAD
-echo "# Project Name: DSI Bash project" > README.md
-=======
 echo "# Project Name: DSI bash Project" > README.md
->>>>>>> ea20676d33161a6f4d0fcd3c4f7aa5360f0f4309
 touch analysis/main.py
 
 # download client data
