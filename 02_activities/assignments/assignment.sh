@@ -2,7 +2,7 @@
 set -x
 
 ############################################
-# DSI CONSULTING INC. Project setup script #
+# DSI Bash Project Project setup script #
 ############################################
 # This script creates standard analysis and output directories
 # for a new project. It also creates a README file with the
